@@ -2,6 +2,7 @@ javagui
 =======
 
 Fooling around with the JAVA GUI library over Winter Break 2013, right after finishing a Data Structures class.
+(excuse the class names)
 
 Projects include: 
 ----
