@@ -6,8 +6,8 @@ Fooling around with the JAVA GUI library over Winter Break 2013, right after fin
 
 Projects include: 
 ----
-Tic-tac-toe (JAVA GUI)  12/25/2012
-Etch-A-Sketch (JAVA GUI) 1/12/2013
+1. Tic-tac-toe (JAVA GUI)  12/25/2012
+2. Etch-A-Sketch (JAVA GUI) 1/12/2013
 
 Tic-Tac-Toe:
 - bird.java: the driver class (with main function), only contains optionpanes inquiring players' names and making the blue class object for the window.
